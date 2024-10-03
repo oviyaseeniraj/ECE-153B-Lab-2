@@ -1,0 +1,14 @@
+---
+:id: 248373965
+:submitters:
+- :name: Lily Chen
+  :email: yuxuanchen@umail.ucsb.edu
+- :name: Oviya Seeniraj
+  :email: oviya@umail.ucsb.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-04-20 00:05:26.690400000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-04-19 17:05:26.690400000 Z
+:status: processed
+:score: 100.0
